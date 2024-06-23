@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anmol Neupane</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .content h2 {
+            color: #333;
+        }
+
+        .content p {
+            color: #666;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 style="font-size: 2em;">Anmol Neupane</h1>
+    </header>
+    <div class="content">
+        <h2>Welcome to My Website</h2>
+        <p style="font-size: 1.2em;">Hello! My name is Anmol Neupane, and this is my personal website.</p>
+    </div>
+    <footer>
+        <p>© 2024 Anmol Neupane</p>
+    </footer>
+</body>
+</html>
